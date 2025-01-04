@@ -30,4 +30,4 @@ Welcome to **MyShowz**, a comprehensive movie ticket booking platform where user
 1. Clone the repository:
    ```bash
    git clone https://github.com/ADHITHYAN9/OCTANET_DECEMBER.git
-   cd OCTANET_DECEMBER
+   
