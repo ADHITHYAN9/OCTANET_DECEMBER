@@ -1,4 +1,4 @@
-# MyShowz - Movie Website 
+# MyShowz - Movie Website
 
 Welcome to **MyShowz**, a comprehensive movie ticket booking platform where users can explore movies, view details, select seats, and book tickets seamlessly.
 
@@ -25,9 +25,15 @@ Welcome to **MyShowz**, a comprehensive movie ticket booking platform where user
 
 ---
 
+## Live Site
+
+Your site is live at [MyShowz Live](https://adhithyan9.github.io/OCTANET_DECEMBER/).
+
+---
+
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ADHITHYAN9/OCTANET_DECEMBER.git
-   
+  
